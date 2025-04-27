@@ -12,8 +12,8 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📫 How to reach me
-- 🌐 Website: [antotech.it](https://antotech.it)
+## 🔗 Personal Site
+- 🌐 [About Me - antotech.it](https://antotech.it)
 
 ---
 
