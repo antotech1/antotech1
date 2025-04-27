@@ -1,4 +1,4 @@
-# Hi there, I'm AntoTech 👋
+# Hi!, I'm AntoTech 👋
 
 Welcome to my GitHub profile!
 
