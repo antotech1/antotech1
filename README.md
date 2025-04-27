@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🔭 Founder of **VoxirServices**
 - 🌱 Currently learning **HTML** and **CSS**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I love building cool projects and learning new tech!
+- ⚡ Fun fact: I create random websites just for fun!
 
 ---
 
