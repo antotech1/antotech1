@@ -1,10 +1,26 @@
-##  Hi! I'm
-AntoTech 👋
+# Hi there, I'm AntoTech 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 Founder VoxirServices
-- 🌱 I’m currently learning HTML / CSS
-- 📫 How to reach me https://antotech.it
-- 😄 Pronouns: he / him
-- ⚡
+---
+
+## 🚀 About Me
+- 🔭 Founder of **VoxirServices**
+- 🌱 Currently learning **HTML** and **CSS**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I love building cool projects and learning new tech!
+
+---
+
+## 📫 How to reach me
+- 🌐 Website: [antotech.it](https://antotech.it)
+
+---
+
+## 🛠️ Skills
+- Beginner: HTML, CSS
+- In progress: JavaScript, Web Development
+
+---
+
+> "Keep pushing forward and make your dreams real!" 🚀
